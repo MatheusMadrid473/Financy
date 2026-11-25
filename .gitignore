@@ -1,0 +1,12 @@
+node_modules
+node_modules.broken
+dist
+.env
+*.db
+*.db-journal
+*.log
+*.tsbuildinfo
+backend/generated
+frontend/vite.config.js
+frontend/vite.config.d.ts
+.claude
